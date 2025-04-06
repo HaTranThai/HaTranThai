@@ -26,10 +26,8 @@
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/VuTrinhNguyenHoang/Ecommerce-DWH-BigQuery"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrinhNguyenHoang&repo=Ecommerce-DWH-BigQuery
-&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/HaTranThai/Financial-data-pipeline-with-Apache-airflow"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaTranThai&repo=Financial-data-pipeline-with-Apache-airflow
-&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true"></a>
+    <a href="https://github.com/VuTrinhNguyenHoang/Ecommerce-DWH-BigQuery"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrinhNguyenHoang&repo=Ecommerce-DWH-BigQuery&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/HaTranThai/Financial-data-pipeline-with-Apache-airflow"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=HaTranThai&repo=Financial-data-pipeline-with-Apache-airflow&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true"></a>
   </p>
 </p>
 
