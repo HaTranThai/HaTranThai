@@ -36,9 +36,6 @@
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
 
-<p align="left">
-  <a href="https://github.com/Bagumeow?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-7cebf5?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
 
 <!---
 HaTranThai/HaTranThai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
