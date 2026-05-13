@@ -6,7 +6,7 @@
 
 I build data pipelines that turn raw data into reliable, scalable, and meaningful systems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Data+Engineering;Real-time+Data+Pipelines;Apache+Spark+%7C+Airflow+%7C+Kafka;Cloud+%7C+Terraform+%7C+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=720&lines=Data+Engineering;Real-time+Data+Pipelines;Apache+Spark+%7C+Airflow+%7C+Kafka;Cloud+Infrastructure+%7C+Terraform;MLOps+%7C+Analytics+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -16,30 +16,34 @@ I build data pipelines that turn raw data into reliable, scalable, and meaningfu
 
 I am a Data Engineering learner and builder, focusing on designing data systems that can collect, process, store, and analyze data at scale.
 
-My current interests are:
+My current direction is to build systems where data flows clearly from source to destination: raw at the beginning, refined through the pipeline, and useful at the end.
 
-- Building real-time and batch data pipelines
-- Working with distributed processing systems
-- Designing data warehouses and analytics platforms
-- Learning cloud infrastructure and DevOps for data systems
-- Exploring MLOps for production-ready machine learning workflows
-
-I enjoy building systems where data flows like a river: raw at the source, refined through the pipeline, and valuable at the destination.
+- I am currently learning **Hadoop, Spark, Airflow, Kafka, Terraform, and Cloud Infrastructure**
+- I am interested in **Data Engineering, Big Data, Real-time Pipelines, Data Warehousing, and MLOps**
+- I enjoy building projects that connect engineering, analytics, and production systems
+- I like turning messy data into something clean, traceable, and valuable
 
 ---
 
 ## Tech Stack
 
-### Programming & Data Processing
+### Programming & Query Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Data Orchestration & Streaming
+### Big Data & Processing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+</p>
+
+### Orchestration & Streaming
 
 <p align="left">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
@@ -47,7 +51,7 @@ I enjoy building systems where data flows like a river: raw at the source, refin
   <img src="https://img.shields.io/badge/ETL%2FELT-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### Databases & Warehousing
+### Databases & Data Warehouse
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -76,74 +80,95 @@ I enjoy building systems where data flows like a river: raw at the source, refin
 
 ## Featured Projects
 
-<div align="center">
-
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/HaTranThai/Real-time-Weather-Data-Processing-and-Analytics-Pipeline">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaTranThai&repo=Real-time-Weather-Data-Processing-and-Analytics-Pipeline&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="Real-time Weather Data Processing and Analytics Pipeline" />
-      </a>
-      <br />
-      <sub>
-        Real-time weather pipeline for collecting, processing, and analyzing weather data.
-      </sub>
+      <h3>
+        <a href="https://github.com/HaTranThai/Real-time-Weather-Data-Processing-and-Analytics-Pipeline">
+          Real-time Weather Data Processing and Analytics Pipeline
+        </a>
+      </h3>
+      <p>
+        A real-time weather data pipeline for collecting, processing, and analyzing weather data.
+      </p>
+      <p>
+        <b>Focus:</b> Data ingestion, real-time processing, analytics pipeline
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--time-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Analytics-7B61FF?style=flat-square" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/HaTranThai/Real-time-financial-data-pipeline">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaTranThai&repo=Real-time-financial-data-pipeline&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="Real-time Financial Data Pipeline" />
-      </a>
-      <br />
-      <sub>
-        Real-time financial market pipeline using streaming and distributed data tools.
-      </sub>
+      <h3>
+        <a href="https://github.com/HaTranThai/Real-time-financial-data-pipeline">
+          Real-time Financial Data Pipeline
+        </a>
+      </h3>
+      <p>
+        A real-time financial market data pipeline using streaming and distributed data tools.
+      </p>
+      <p>
+        <b>Focus:</b> Kafka, Spark Streaming, Cassandra, Grafana
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/VuTrinhNguyenHoang/Ecommerce-DWH-BigQuery">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrinhNguyenHoang&repo=Ecommerce-DWH-BigQuery&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="Ecommerce Data Warehouse BigQuery" />
-      </a>
-      <br />
-      <sub>
-        E-commerce data warehouse project with BigQuery and analytics-oriented design.
-      </sub>
+      <h3>
+        <a href="https://github.com/VuTrinhNguyenHoang/Ecommerce-DWH-BigQuery">
+          Ecommerce Data Warehouse BigQuery
+        </a>
+      </h3>
+      <p>
+        An e-commerce data warehouse project with BigQuery and analytics-oriented design.
+      </p>
+      <p>
+        <b>Focus:</b> Data warehouse, BigQuery, business analytics
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Warehouse-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Analytics-7B61FF?style=flat-square" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/HaTranThai/Financial-data-pipeline-with-Apache-airflow">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaTranThai&repo=Financial-data-pipeline-with-Apache-airflow&theme=radical&border_color=7cebf5&border_radius=10&show_icons=true" alt="Financial Data Pipeline with Apache Airflow" />
-      </a>
-      <br />
-      <sub>
-        Batch financial data pipeline orchestrated with Apache Airflow.
-      </sub>
+      <h3>
+        <a href="https://github.com/HaTranThai/Financial-data-pipeline-with-Apache-airflow">
+          Financial Data Pipeline with Apache Airflow
+        </a>
+      </h3>
+      <p>
+        A batch financial data pipeline orchestrated with Apache Airflow.
+      </p>
+      <p>
+        <b>Focus:</b> Workflow orchestration, ETL, financial data
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/ETL-4B8BBE?style=flat-square" />
+        <img src="https://img.shields.io/badge/Finance-2E7D32?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
 
-</div>
-
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HaTranThai&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="HaTranThai GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaTranThai&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="HaTranThai Top Languages" />
-
-</div>
-
----
-
-## What I Am Learning
+## Data Engineering Roadmap
 
 ```txt
-Data Engineering       ████████████████████░░░░
-Apache Spark           ████████████████░░░░░░░░
-Apache Airflow         ███████████████░░░░░░░░░
-Kafka Streaming        █████████████░░░░░░░░░░░
-Cloud Infrastructure   ███████████░░░░░░░░░░░░░
-Terraform              ██████████░░░░░░░░░░░░░░
-MLOps                  █████████░░░░░░░░░░░░░░░
+Data Ingestion          ████████████████████░░░░
+Data Processing         ██████████████████░░░░░░
+Workflow Orchestration  ████████████████░░░░░░░░
+Streaming Systems       ███████████████░░░░░░░░░
+Data Warehouse          ███████████████░░░░░░░░░
+Cloud Infrastructure    ████████████░░░░░░░░░░░░
+MLOps                   ███████████░░░░░░░░░░░░░
